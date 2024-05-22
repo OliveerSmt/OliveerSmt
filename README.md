@@ -1,16 +1,20 @@
-## Hi there 👋
+## Triste e lindo 🦇🩸
 
-<!--
-**OliveerSmt/OliveerSmt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+my name is Guilherme Ferreira
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Linguagem JavaScript
+- Organização e etc
 
-Here are some ideas to get you started:
+  📫 gf483037@gmail.com
+  
+  @why_oliverkkkj
+  
+_Humanos Não Matam Deuses 🧸_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://media1.tenor.com/m/MBzBtemCo_EAAAAC/lana-del-rey-kanye-west.gif)
+
+
+
+
+
+
